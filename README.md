@@ -1,5 +1,10 @@
 # PandaCode
 
+> **This is a fork of PandaCode** — upstream: <https://github.com/aicodeking/pandacode>.
+> This fork adds native Command Code and Muse Code agents. It builds as a separate app,
+> "PandaCode Dev" (`ai.pandacode.landon`), so it never shares app data with an installed
+> PandaCode: `npm run fork:desktop` runs it, `npm run fork:package` bundles it.
+
 A small, native desktop workspace for coding agents. PandaCode runs the coding
 CLIs you already use — **Claude Code, Codex, Kimi Code, OpenCode, GLM Coding
 Plan and Xiaomi MiMo** (through Claude Code), **Antigravity and xAI's Grok

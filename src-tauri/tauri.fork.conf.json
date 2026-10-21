@@ -1,0 +1,9 @@
+{
+  "productName": "PandaCode Dev",
+  "identifier": "ai.pandacode.landon",
+  "plugins": {
+    "updater": {
+      "endpoints": ["https://github.com/landonashbreck-eng/pandacode/releases/latest/download/latest.json"]
+    }
+  }
+}
